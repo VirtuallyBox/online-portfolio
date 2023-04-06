@@ -1,0 +1,9 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    //background-color:rgba(39,45,57,255);
+    //background-color:rgb(243 244 246);
+}
